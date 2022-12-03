@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital@1&display=swap'); 
+
+
+body
+{
+	text-align: center;
+    background: #ff2b72;
+}
+
+span
+{
+	font-size: 12px;
+	color: rgb(246, 255, 0);
+}
+canvas
+{
+	background: pink;
+	border-radius: 20px;
+}
+
+h4{
+    color: aliceblue;
+    font-family: 'Satisfy', cursive;
+}
+
+h3{
+    color:rgb(255, 255, 255);
+    font-family: 'Satisfy', cursive;
+}
+
+button{
+    font-family: 'Indie Flower', cursive;
+}
+
+label{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+li{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+p{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+input{
+    color: black;
+}
